@@ -1,0 +1,14 @@
+Numpy
+Scipy
+Scikit-learn
+Theano
+Keras
+Pandas
+Matplotlib
+requests
+colorama
+wikipedia
+textblob
+googletrans
+nltk
+ChatterBot
